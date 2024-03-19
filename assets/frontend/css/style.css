@@ -15,7 +15,7 @@
   background: #16161a;
 }
 .theme-bg {
-  background: #ff656a;
+  background: #a5b3c9;
 }
 .brand-bg {
   background: #f1f4fa;
@@ -30,28 +30,28 @@
   color: #16161a;
 }
 .theme-color {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .boxed-btn {
   background: #fff;
-  color: #ff656a !important;
+  color: #a5b3c9 !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #ff656a;
+  border: 1px solid #a5b3c9;
   letter-spacing: 3px;
   text-align: center;
-  color: #ff656a;
+  color: #a5b3c9;
   text-transform: uppercase;
   cursor: pointer;
 }
 .boxed-btn:hover {
-  background: #ff656a;
+  background: #a5b3c9;
   color: #fff !important;
-  border: 1px solid #ff656a;
+  border: 1px solid #a5b3c9;
 }
 .boxed-btn:focus {
   outline: none;
@@ -325,7 +325,7 @@ hr {
   background: #ff3500;
 }
 .btn {
-  background: #ff656a;
+  background: #a5b3c9;
   -moz-user-select: none;
   text-transform: uppercase;
   color: #fff;
@@ -383,11 +383,11 @@ hr {
 .border-btn {
   background: none;
   -moz-user-select: none;
-  border: 2px solid #ff656a;
+  border: 2px solid #a5b3c9;
   padding: 18px 38px;
   margin: 10px;
   text-transform: capitalize;
-  color: #ff656a;
+  color: #a5b3c9;
   cursor: pointer;
   display: inline-block;
   font-size: 14px;
@@ -409,7 +409,7 @@ hr {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #ff656a;
+  background: #a5b3c9;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -425,7 +425,7 @@ hr {
   padding: 17px 52px;
 }
 .send-btn {
-  background: #ff656a;
+  background: #a5b3c9;
   color: #fff;
   font-size: 14px;
   width: 100%;
@@ -447,7 +447,7 @@ hr {
   width: 110%;
   height: 100%;
   background: #e6373d;
-  color: #ff656a;
+  color: #a5b3c9;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -464,7 +464,7 @@ hr {
   color: #888;
 }
 #scrollUp {
-  background: #ff656a;
+  background: #a5b3c9;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -1550,7 +1550,7 @@ hr {
   position: relative;
   border-style: solid;
   border-width: 3px;
-  border-top-color: #ff656a;
+  border-top-color: #a5b3c9;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -1997,7 +1997,7 @@ hr {
   background: #16161a;
 }
 .theme-bg {
-  background: #ff656a;
+  background: #a5b3c9;
 }
 .brand-bg {
   background: #f1f4fa;
@@ -2012,7 +2012,7 @@ hr {
   color: #16161a;
 }
 .theme-color {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .header-area .header-top {
   padding: 13px 185px;
@@ -2107,7 +2107,7 @@ hr {
   padding-left: 25px;
 }
 .header-area .header-top .header-info-right .header-social li a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .main-header {
   position: relative;
@@ -2142,7 +2142,7 @@ hr {
   }
 }
 .main-header .main-menu ul li:hover > a {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .main-header .main-menu ul ul.submenu {
   position: absolute;
@@ -2154,7 +2154,7 @@ hr {
   opacity: 0;
   box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.05);
   padding: 17px 0;
-  border-top: 5px solid #ff656a;
+  border-top: 5px solid #a5b3c9;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -2172,7 +2172,7 @@ hr {
   text-transform: capitalize;
 }
 .main-header .main-menu ul ul.submenu > li > a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
   background: none;
 }
 .header-area .header-top .header-info-right .header-social a i {
@@ -2209,7 +2209,7 @@ hr {
   padding: 26px 20px;
 }
 .slicknav_menu .slicknav_icon-bar {
-  background-color: #ff656a !important;
+  background-color: #a5b3c9 !important;
 }
 .slicknav_nav {
   margin-top: 10px;
@@ -2222,7 +2222,7 @@ hr {
 }
 .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .slicknav_menu {
   background: transparent;
@@ -2298,11 +2298,11 @@ hr {
   }
 }
 .slider-area .hero__caption p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.2;
   font-weight: 300;
   margin-bottom: 39px;
-  color: #ff656a;
+  color: #ccdefc;
   margin-bottom: 7px;
   text-transform: uppercase;
 }
@@ -2351,7 +2351,7 @@ hr {
   width: 60px;
   border-radius: 50%;
   cursor: pointer;
-  background: #ff656a;
+  background: #a5b3c9;
   -webkit-transition: 0.4s;
   -o-transition: 0.4s;
   transition: 0.4s;
@@ -2424,7 +2424,7 @@ hr {
   transform: scale(1);
 }
 .team-profile .single-profile .single-profile-front .profile-img img:hover {
-  border-bottom: 7px solid #ff656a;
+  border-bottom: 7px solid #a5b3c9;
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
@@ -2447,10 +2447,10 @@ hr {
   .profile-caption
   h4
   a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .team-profile .single-profile .single-profile-back {
-  border: 4px solid #ff656a;
+  border: 4px solid #a5b3c9;
   padding: 31px 32px 48px 52px;
   background: #fff;
   overflow: hidden;
@@ -2491,7 +2491,7 @@ hr {
   position: absolute;
   width: 100px;
   height: 4px;
-  background: #ff656a;
+  background: #a5b3c9;
   left: 0;
   bottom: 0;
 }
@@ -2502,7 +2502,7 @@ hr {
   color: #191d34;
 }
 .team-profile .single-profile .single-profile-back a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .team-profile .single-profile .single-profile-front-last .profile-img {
   overflow: hidden;
@@ -2523,7 +2523,7 @@ hr {
   .single-profile-front-last
   .profile-img
   img:hover {
-  border-bottom: 7px solid #ff656a;
+  border-bottom: 7px solid #a5b3c9;
   transform: scale(1.1);
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
@@ -2543,10 +2543,10 @@ hr {
   .profile-caption
   h4
   a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .team-profile .single-profile .single-profile-back-last {
-  border: 4px solid #ff656a;
+  border: 4px solid #a5b3c9;
   padding: 31px 32px 48px 52px;
   background: #fff;
   overflow: hidden;
@@ -2582,7 +2582,7 @@ hr {
   position: absolute;
   width: 100px;
   height: 4px;
-  background: #ff656a;
+  background: #a5b3c9;
   left: 0;
   bottom: 0;
 }
@@ -2598,7 +2598,7 @@ hr {
   color: #191d34;
 }
 .team-profile .single-profile .single-profile-back-last a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .we-trusted-area .trusted-img img {
   width: 100%;
@@ -2747,7 +2747,7 @@ hr {
   bottom: -12px;
 }
 .single-services:hover .services-icon span {
-  color: #ff656a;
+  color: #c7d6ee;
 }
 .section-tittle h2 {
   color: #191d34;
@@ -2864,7 +2864,7 @@ hr {
   cursor: pointer;
 }
 .completed-cases .single-cases-img .single-cases-cap h4 a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .completed-cases .single-cases-img .single-cases-cap p {
   margin-bottom: 30px;
@@ -3050,7 +3050,7 @@ hr {
   }
 }
 .h1-testimonial-active:hover button {
-  background: #ff656a;
+  background: #a5b3c9;
   color: #fff;
 }
 .testimonial-icon img {
@@ -3100,7 +3100,7 @@ hr {
   background: #fcfdff;
 }
 .recent-area .single-recent-cap .recent-cap span {
-  color: #ff656a;
+  color: #a5b3c9;
   font-size: 14px;
   margin-bottom: 20px;
   display: block;
@@ -3112,7 +3112,7 @@ hr {
   font-weight: 500px;
 }
 .recent-area .single-recent-cap .recent-cap h4 a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .recent-area .single-recent-cap .recent-cap p {
   color: #aebccb;
@@ -3206,7 +3206,7 @@ hr {
   margin-bottom: 90px;
 }
 .services-details .s-details-caption h2 {
-  color: #ff656a;
+  color: #a5b3c9;
   font-weight: 700;
   font-size: 25px;
   margin-bottom: 38px;
@@ -3277,7 +3277,7 @@ hr {
   font-weight: 300;
 }
 .footer-area .footer-tittle ul li a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
   padding-left: 5px;
 }
 .footer-area .footer-form {
@@ -3300,11 +3300,11 @@ hr {
   border: 0;
   cursor: pointer;
   padding: 13px 22px;
-  background: #ff656a;
+  background: #a5b3c9;
   line-height: 1;
 }
 .footer-area .info.error {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .footer-area .footer-social a i {
   color: #222222;
@@ -3317,7 +3317,7 @@ hr {
   transition: all 0.4s ease-out 0s;
 }
 .footer-area .footer-social a i:hover {
-  color: #ff656a;
+  color: #a5b3c9;
   box-shadow: 0 -3px 0 0 rgba(24, 24, 24, 0.15) inset,
     0 3px 10px rgba(0, 0, 0, 0.3);
   -webkit-transform: translateY(-3px);
@@ -3345,10 +3345,10 @@ hr {
   margin-bottom: 12px;
 }
 .footer-bottom-area .footer-copy-right p i {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .footer-bottom-area .footer-copy-right p a {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .hero-caption span {
   color: #fff;
@@ -3364,7 +3364,7 @@ hr {
   content: "";
   width: 75px;
   height: 3px;
-  background: #ff656a;
+  background: #a5b3c9;
   left: 0;
   top: 52%;
   transform: translateY(-50%);
@@ -3384,7 +3384,7 @@ hr {
 }
 .blog_area a:hover,
 .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #ff656a 0%, #ff656a 99%);
+  background: -webkit-linear-gradient(131deg, #a5b3c9 0%, #a5b3c9 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -3761,7 +3761,7 @@ hr {
   color: #ff8b23;
 }
 .blog_details a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .blog_details h2 {
   font-size: 18px;
@@ -3809,7 +3809,7 @@ hr {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #ff656a;
+  background-color: #a5b3c9;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -3878,7 +3878,7 @@ hr {
   box-shadow: none;
 }
 .blog_right_sidebar .search_widget .input-group button {
-  background: #ff656a;
+  background: #a5b3c9;
   border-left: 0;
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
@@ -3976,7 +3976,7 @@ hr {
   font-size: 13px;
 }
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #ff656a;
+  background: #a5b3c9;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -4151,7 +4151,7 @@ hr {
   display: inline-block;
 }
 .single-post-area .blog-author a:hover {
-  color: #ff656a;
+  color: #a5b3c9;
 }
 .single-post-area .blog-author p {
   margin-bottom: 0;
@@ -5695,4 +5695,17 @@ del {
 }
 .switch-wrap {
   margin-bottom: 10px;
+}
+.resize {
+  width: 200px;
+  height: 100px;
+}
+/*own work*/
+.image-container {
+  max-width: 100%; /* Ensure the container doesn't exceed the viewport width */
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto; /* This will maintain the aspect ratio of the image */
 }

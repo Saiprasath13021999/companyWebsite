@@ -2400,7 +2400,7 @@ hr {
   visibility: visible;
 }
 .slider-active button:hover {
-  background: #002d5b;
+  background: #dbe1e9;
 }
 .slider-active .secondary-img {
   position: absolute;
@@ -5689,4 +5689,18 @@ del {
 }
 .switch-wrap {
   margin-bottom: 10px;
+}
+
+.resize {
+  width: 200px;
+  height: 100px;
+}
+/*own work */
+.image-container {
+  max-width: 100%; /* Ensure the container doesn't exceed the viewport width */
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto; /* This will maintain the aspect ratio of the image */
 }
